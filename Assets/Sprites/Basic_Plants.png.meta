@@ -74,7 +74,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 0
+    crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
@@ -113,10 +113,10 @@ TextureImporter:
       name: Basic_Plants_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 17
-        width: 12
-        height: 13
+        x: 0
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 001011798de2b4b82a034c7f42915290
-      internalID: 1571681718
+      spriteID: 4361a6212ee900b459d5367e5e18fe30
+      internalID: -23726278
       vertices: []
       indices: 
       edges: []
@@ -134,10 +134,10 @@ TextureImporter:
       name: Basic_Plants_1
       rect:
         serializedVersion: 2
-        x: 17
-        y: 17
-        width: 13
-        height: 8
+        x: 16
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,8 +145,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d93fbc41d2134d2392e772baa0a3798
-      internalID: -1111353635
+      spriteID: 104fc017667c47942b4d059364191a31
+      internalID: 1149350399
       vertices: []
       indices: 
       edges: []
@@ -155,10 +155,10 @@ TextureImporter:
       name: Basic_Plants_2
       rect:
         serializedVersion: 2
-        x: 33
-        y: 17
-        width: 15
-        height: 12
+        x: 32
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f0334711f6614183a00cce0481807f3
-      internalID: -634165976
+      spriteID: 1c784c1178ce6b04c954bf2e8c592102
+      internalID: -1606612082
       vertices: []
       indices: 
       edges: []
@@ -176,10 +176,10 @@ TextureImporter:
       name: Basic_Plants_3
       rect:
         serializedVersion: 2
-        x: 49
-        y: 17
-        width: 15
-        height: 14
+        x: 48
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0610e65eef3144248b410235bb128b48
-      internalID: 1420311965
+      spriteID: ad10a2f6c11db9f4fb75f7095600ecb1
+      internalID: 1794308496
       vertices: []
       indices: 
       edges: []
@@ -197,10 +197,10 @@ TextureImporter:
       name: Basic_Plants_4
       rect:
         serializedVersion: 2
-        x: 65
-        y: 17
-        width: 15
-        height: 15
+        x: 64
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,8 +208,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cd7a2d9ea87e4560becb27f88afb0cd
-      internalID: 1069342310
+      spriteID: 1e00d90e5db26524e99e9b96f3c9c46e
+      internalID: 2033797297
       vertices: []
       indices: 
       edges: []
@@ -218,10 +218,10 @@ TextureImporter:
       name: Basic_Plants_5
       rect:
         serializedVersion: 2
-        x: 81
-        y: 17
-        width: 14
-        height: 14
+        x: 80
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,8 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: faecf7ef65acd4dedb904d60abc1613b
-      internalID: 1558976934
+      spriteID: 924489c4706f7ca4292cf984eb364b59
+      internalID: 246861350
       vertices: []
       indices: 
       edges: []
@@ -239,10 +239,10 @@ TextureImporter:
       name: Basic_Plants_6
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1
-        width: 12
-        height: 13
+        x: 0
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,8 +250,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55040e90d1aff42b781d0681f5cf3f8e
-      internalID: -1733034048
+      spriteID: fd795e7897d6554429093b4f200892f6
+      internalID: 323036786
       vertices: []
       indices: 
       edges: []
@@ -260,10 +260,10 @@ TextureImporter:
       name: Basic_Plants_7
       rect:
         serializedVersion: 2
-        x: 22
-        y: 1
-        width: 5
-        height: 5
+        x: 16
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,8 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51a9416b9e48f4ce59f95e47e4744a51
-      internalID: 634000103
+      spriteID: 02098f97b849a5f4f8b78a2be2ec208f
+      internalID: 366180238
       vertices: []
       indices: 
       edges: []
@@ -281,10 +281,10 @@ TextureImporter:
       name: Basic_Plants_8
       rect:
         serializedVersion: 2
-        x: 36
-        y: 1
-        width: 9
-        height: 9
+        x: 32
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,8 +292,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: baa67f88e554f494488f295b1451a126
-      internalID: -419143004
+      spriteID: cbfbc82056b9af747a2fc541c382ff99
+      internalID: -1783578762
       vertices: []
       indices: 
       edges: []
@@ -302,10 +302,10 @@ TextureImporter:
       name: Basic_Plants_9
       rect:
         serializedVersion: 2
-        x: 49
+        x: 48
         y: 0
-        width: 13
-        height: 13
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,8 +313,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b030ce86c0534ee4a3e28c3f9c7b1c0
-      internalID: -1947565188
+      spriteID: 4dc8dc99df55aba44b5a020246371053
+      internalID: 1620248441
       vertices: []
       indices: 
       edges: []
@@ -323,10 +323,10 @@ TextureImporter:
       name: Basic_Plants_10
       rect:
         serializedVersion: 2
-        x: 65
+        x: 64
         y: 0
-        width: 14
-        height: 14
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,8 +334,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31c92bacd599a4191a5883b2f1e0aad0
-      internalID: -1087717064
+      spriteID: 586b39812c14b5e4abc0a31ed2f0a426
+      internalID: -37174188
       vertices: []
       indices: 
       edges: []
@@ -344,10 +344,10 @@ TextureImporter:
       name: Basic_Plants_11
       rect:
         serializedVersion: 2
-        x: 82
-        y: 2
-        width: 12
-        height: 13
+        x: 80
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -355,8 +355,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f4f1f1f984d14d6db7e4723933b96fd
-      internalID: 1576485675
+      spriteID: c4988ed49d420a6418e32c11e0df709b
+      internalID: 903526222
       vertices: []
       indices: 
       edges: []
@@ -372,18 +372,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Basic_Plants_0: 1571681718
-      Basic_Plants_1: -1111353635
-      Basic_Plants_10: -1087717064
-      Basic_Plants_11: 1576485675
-      Basic_Plants_2: -634165976
-      Basic_Plants_3: 1420311965
-      Basic_Plants_4: 1069342310
-      Basic_Plants_5: 1558976934
-      Basic_Plants_6: -1733034048
-      Basic_Plants_7: 634000103
-      Basic_Plants_8: -419143004
-      Basic_Plants_9: -1947565188
+      Basic_Plants_0: -23726278
+      Basic_Plants_1: 1149350399
+      Basic_Plants_10: -37174188
+      Basic_Plants_11: 903526222
+      Basic_Plants_2: -1606612082
+      Basic_Plants_3: 1794308496
+      Basic_Plants_4: 2033797297
+      Basic_Plants_5: 246861350
+      Basic_Plants_6: 323036786
+      Basic_Plants_7: 366180238
+      Basic_Plants_8: -1783578762
+      Basic_Plants_9: 1620248441
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
