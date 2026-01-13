@@ -58,6 +58,8 @@ public class Player : MonoBehaviour
         {
             Instantiate(_plantPrefab,_playerTransform.position, Quaternion.identity);
             _numSeedsLeft --;
+            _numSeedsPlanted ++;
+            _plantCountUI.UpdateSeeds(_numSeedsLeft, _numSeedsPlanted);
         }
     }
 }
