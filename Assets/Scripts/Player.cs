@@ -18,7 +18,31 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
-        
+        if (Input.GetKey(KeyCode.W))
+        {
+            _playerTransform.Translate(0, _speed * Time.deltaTime,0);
+
+        }
+
+        if (Input.GetKey(KeyCode.S))
+        {
+            _playerTransform.Translate(0, _speed * Time.deltaTime*-1, 0);
+
+        }
+
+        if (Input.GetKey(KeyCode.A))
+        {
+            _playerTransform.Translate(_speed * Time.deltaTime*-1, 0, 0);
+
+        }
+
+        if (Input.GetKey(KeyCode.D))
+        {
+            _playerTransform.Translate(_speed * Time.deltaTime , 0, 0);
+
+        }
+
+
     }
 
     public void PlantSeed ()
